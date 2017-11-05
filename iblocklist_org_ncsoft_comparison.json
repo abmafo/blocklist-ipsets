@@ -1,0 +1,26 @@
+[
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762689998,
+		"common": 12560
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139005695,
+		"common": 16
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 3893
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 170,
+		"common": 9
+	}
+]
